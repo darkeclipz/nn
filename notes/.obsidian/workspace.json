@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "c426572eeca913a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "05aec820d9b9ceb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc2898f20ceb6e92",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1bccde2da38a416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shallow neural networks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d60da92ec82e66f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "853ba15293f01f4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e4f54a5372b813",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49eb5172cd4572ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0383ad87000892df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 439.5
+  },
+  "right": {
+    "id": "48cb58cd1b6336d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b35366d9ecc85aeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a328ab5437c8cca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shallow neural networks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e100a62a6a5f8cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Shallow neural networks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f608a0eac813fbe0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ac6a2de3ef95548",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shallow neural networks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c1bccde2da38a416",
+  "lastOpenFiles": [
+    "Supervised learning.md",
+    "Shallow neural networks.md",
+    "8 linear functions.png",
+    "8.md"
+  ]
+}
