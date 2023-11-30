@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "e22fd8927db55996",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa2f93e542693295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "858fdd2bf7909093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Supervised learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d52a93b3ee091b88",
+    "type": "split",
+    "children": [
+      {
+        "id": "14c30ee8c75487bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1055d7c70683af3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bbcf79d265d3602",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d236ea6710069c4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5dfe9a73c0bd7b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d8b2632534451dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4abe192ce70e093f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Supervised learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6641cc51f500024a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Supervised learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f0edb6705f107f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b799a0ba6af72f45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Supervised learning.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "858fdd2bf7909093",
+  "lastOpenFiles": [
+    "notes/Shallow neural networks.md",
+    "shallow-neural-nets/neurons.ipynb",
+    "notes/Supervised learning.md",
+    "README.md",
+    "notes"
+  ]
+}
