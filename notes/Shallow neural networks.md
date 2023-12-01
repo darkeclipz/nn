@@ -95,3 +95,10 @@ where $a$ is a nonlinear activation function.
 The activation function permits the model to describe nonlinear relations between input and output, and as such, it must be nonlinear itself. With no activation function, or a linear activation function, the overall mapping from input to output would be restricted to linear.
 
 Many different activation functions have been tried, but the most common choice is the ReLU, which has the merit of being easily interpretable. With ReLU activations, the network divides the input space into convex polytopes defined by the intersections of hyperplanes computed by the "joints" in the ReLU functions. Each convex polytope contains a different linear function. The polytopes are the same for each output, but the linear functions they contain can differ.
+
+## Terminology
+A network is often referred to in terms of layers. There is an *input layer*, *hidden layer*, an *output layer*. Note that there can be multiple hidden layers.
+
+The hidden units themselves are often referred to as *neurons*. When we pass data through the hidden layer, the values of the inputs (before ReLU is applied) are called *pre-activations*, and after the ReLU function the are called *activations*. 
+
+A neural network with at least one hidden layer is also called a *multi-layer perceptron (MLP)*. Networks with only one hidden layer are referred to as *shallow neural networks* and if there are more hidden layers it is called *deep neural network*. Neural networks in which the connections form an acyclic graph are referred to as *feed forward networks*. If every element in one layer connects to every element in the next, the network is *fully connected*. These connections represent the slope parameters in the underlying equation and are referred to as *network weights*. The offset parameters are called *biases*.
