@@ -10,7 +10,7 @@ $$
 \mathbf y = f[\mathbf x, \phi].
 $$
 
-When we talk about *learning* or *training* a model we talk about finding parameters $\phi$ that make sensible output predictions from the input. We learn this from using a *training dataset* of $I$ pairs of input and output examples $\{\mathbf x_i, \mathbf y_i\}$.
+When we talk about *learning* or *training* a model we talk about finding parameters $\phi$ that make sensible output predictions from the input. We learn this from using a *training dataset* of $I$ pairs of input and output examples $(\mathbf x_i, \mathbf y_i)$.
 
 To determine how well a model is performing we define a scalar value, called *loss* $L$, that summarizes how poor a model is performing. We define the loss as a function $L[\phi]$ of the parameters. When we train the model we are seeking parameters $\hat \phi$ that minimizes the loss function:
 
