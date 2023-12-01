@@ -48,6 +48,7 @@ $$
 \tag{2}
 y_j = \phi_{j0} + \sum\limits_{d=1}^D \phi_{jd}h_d,
 $$
+
 where $a$ is a nonlinear activation function.
 
 The activation function permits the model to describe nonlinear relations between input and output, and as such, it must be nonlinear itself. With no activation function, or a linear activation function, the overall mapping from input to output would be restricted to linear.
