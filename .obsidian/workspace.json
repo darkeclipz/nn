@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Shallow neural networks.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Shallow neural networks.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Shallow neural networks.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Shallow neural networks.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "858fdd2bf7909093",
   "lastOpenFiles": [
-    "shallow-neural-nets/multivariate-inputs-and-outputs.ipynb",
-    "notes/Supervised learning.md",
     "notes/Shallow neural networks.md",
+    "notes/Supervised learning.md",
+    "README.md",
+    "shallow-neural-nets/multivariate-inputs-and-outputs.ipynb",
     "notes/8 linear functions.png",
     "shallow-neural-nets/8 linear functions result.png",
     "shallow-neural-nets/8 linear functions.png",
     "shallow-neural-nets/neurons.ipynb",
-    "README.md",
     "notes"
   ]
 }

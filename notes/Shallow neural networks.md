@@ -75,4 +75,22 @@ $$
 
 See `shallow-neural-networks/multivariate-inputs-and-outputs.ipynb` for more examples.
 
+## Shallow neural networks: general case
+We define a general equation for a shallow neural network $\mathbf y = \mathbf f[\mathbf x, \mathbf \phi]$ that maps a multi-dimensional input $\mathbf x \in \mathbb R^{D_i}$ to a multi-dimensional output $\mathbf y \in \mathbb R^{D_o}$ using $\mathbf h \in \mathbb R^D$ hidden units. Each hidden unit is computed as:
 
+$$
+\tag{1}
+h_d = a \left[ \theta_{d0} + \sum\limits_{i=1}^{D_i} \theta_{di}x_i \right],
+$$
+
+and these are combined linearly to create the output:
+
+$$
+\tag{2}
+y_j = \phi_{j0} + \sum\limits_{d=1}^D \phi_{jd}h_d,
+$$
+where $a$ is a nonlinear activation function.
+
+The activation function permits the model to describe nonlinear relations between input and output, and as such, it must be nonlinear itself. With no activation function, or a linear activation function, the overall mapping from input to output would be restricted to linear.
+
+Many different activation functions have been tried, but the most common choice is the ReLU, which has the merit of being easily interpretable. With ReLU activations, the network divides the input space into convex polytopes defined by the intersections of hyperplanes computed by the "joints" in the ReLU functions. Each convex polytope contains a different linear function. The polytopes are the same for each output, but the linear functions they contain can differ.
