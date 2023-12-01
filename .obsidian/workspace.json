@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "858fdd2bf7909093",
+  "active": "1055d7c70683af3f",
   "lastOpenFiles": [
+    "problems/3-shallow-neural-networks.ipynb",
+    "problems",
     "notes/Supervised learning.md",
     "README.md",
     "notes/Shallow neural networks.md",
